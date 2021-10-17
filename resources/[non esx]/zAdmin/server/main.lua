@@ -237,7 +237,6 @@ AddEventHandler("playerConnecting", function(name, setKickReason, deferrals)
     local _src = source
     deferrals.defer()
     deferrals.update("Vérification des warn...")
-    Wait(2500)
     local license = getLicense(_src)
     if warnedPlayers[license] and warnedPlayers[license] > 2 then
         deferrals.done("Vous avez 3 avertissements actif, vous ne pouvez donc pas vous connecter avant le prochain reboot")

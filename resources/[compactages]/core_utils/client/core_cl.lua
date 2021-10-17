@@ -81,7 +81,7 @@ end
 	
 	local name = GetPlayerName(PlayerId())
 	local id = GetPlayerServerId(PlayerId())
-	Citizen.InvokeNative(GetHashKey("ADD_TEXT_ENTRY"), 'FE_THDR_GTAO', '~p~SunFive~s~ | ID : ~p~'.. id ..'~w~ | Joueurs connectés : ~p~' .. #players .."~w~/64 " )
+	Citizen.InvokeNative(GetHashKey("ADD_TEXT_ENTRY"), 'FE_THDR_GTAO', '~p~BLMRP~s~ | ID : ~p~'.. id ..'~w~ | Joueurs connectés : ~p~' .. #players .."~w~/64 " )
 end
 
 Citizen.CreateThread(function()
@@ -92,7 +92,7 @@ Citizen.CreateThread(function()
 end)
 
 Citizen.CreateThread(function()
-    AddTextEntry("PM_PANE_LEAVE", "~r~Se déconnecter ~w~de~p~ SunFive")
+    AddTextEntry("PM_PANE_LEAVE", "~r~Se déconnecter ~w~de~p~ BLMRP")
 end)
 
 Citizen.CreateThread(function()

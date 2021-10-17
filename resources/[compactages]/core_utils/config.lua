@@ -45,7 +45,7 @@ Config.Pos = {
 
 	    S  = {
 
-		text = "Bienvenue\nSur le Serveur ~b~SunFive RP~w~ !\nPasse un bon moment !",
+		text = "Bienvenue\nSur le Serveur ~b~BLM RP~w~ !\nPasse un bon moment !",
 
 		Pos = {x = -530.39,   y = -229.2, z = 36.7},
 

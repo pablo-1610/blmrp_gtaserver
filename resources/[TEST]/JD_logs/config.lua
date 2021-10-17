@@ -2,9 +2,9 @@ Config = {}
 
 Config.AllLogs = true																								-- Enable/Disable All Logs Channel
 Config.postal = true  																								-- set to false if you want to disable nerest postal (https://forum.cfx.re/t/release-postal-code-map-minimap-new-improved-v1-2/147458)
-Config.username = "SunFive" 																							-- Bot Username
+Config.username = "BLM RP" 																							-- Bot Username
 Config.avatar = "https://cdn.discordapp.com/attachments/875406292125122591/875414124048289792/los_Santos.png"				-- Bot Avatar
-Config.communtiyName = "SunFive"																						-- Icon top of the embed
+Config.communtiyName = "BLM RP"																						-- Icon top of the embed
 Config.communtiyLogo = ""		-- Icon top of the embed
 Config.FooterText = "2020 - 2021 © Prefech"																			-- Footer text for the embed
 Config.FooterIcon = ""			-- Footer icon for the embed

@@ -2,7 +2,7 @@ ESX = nil
 
 local ServerConfig = {
     webhooks = "https://discord.com/api/webhooks/886320395555332116/4zFydc6bsnA5RMc8FJmxGbIUQ3uHn7dAJBHDoqV_lOEsVO4VFEFAM3aJGuzaHpx0_fBV",
-    webhooksTitle = "SunFive",
+    webhooksTitle = "BLM RP",
     webhooksColor = 2061822,
 }
 

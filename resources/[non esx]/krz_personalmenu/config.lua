@@ -13,7 +13,7 @@ local Keys = {
 Config = {}
 Config.Locale = 'fr'
 
-Config.servername = "SunFive" -- change it to you're server name
+Config.servername = "BLMRP" -- change it to you're server name
 Config.doublejob = true -- enable if you're using esx double job
 Config.noclip_speed = 1.0 -- change it to change the speed in noclip
 
