@@ -1,0 +1,15 @@
+*.iml
+*.db
+*.exe
+*.crt
+*.dll
+*.key
+*.dat
+*.ini
+citizen/
+cache/
+crashes/
+.idea/
+
+components.json
+secret.cfg
