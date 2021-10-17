@@ -1,6 +1,6 @@
 Config = {
-    openKey = 57, -- Correspond au F10
-    noclipKey = 289, -- Corresponds au F3
+    openKey = 344, -- Correspond au F10
+    noclipKey = 170, -- Corresponds au F3
 
     --[[
         -1  ->  Tous les groupes (sauf user)
