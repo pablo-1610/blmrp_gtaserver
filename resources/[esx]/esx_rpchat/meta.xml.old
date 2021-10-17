@@ -1,0 +1,17 @@
+<meta>
+      <script src="client.lua" type="client" cache="false"/>
+	  <script src="server.lua" type="server" cache="false"/>
+	  <file src="tex_replace.fx" />
+	  <file src="files/walpaper.png" />
+	  <file src="files/walpaper2.png" />
+	  
+	  <file src="icon/twt.png" />
+	  <file src="icon/ano.png" />
+	  <file src="icon/frp.png" />
+	  <file src="icon/olx.png" />
+	  <file src="icon/local.png" />
+	  <file src="icon/rzk.png" />
+	  
+	  <export function="serverInformations" type="client" />
+	  <export function="serverInformations" type="server" />
+</meta>

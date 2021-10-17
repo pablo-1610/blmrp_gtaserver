@@ -1,0 +1,10 @@
+RegisterServerEvent("cAnim:RequestEmote")
+AddEventHandler("cAnim:RequestEmote", function(target, emoteanim, emotename)
+	TriggerClientEvent("cAnim:RequestEmoteClient", target, emoteanim, emotename)
+end)
+
+RegisterServerEvent("cAnim:ValidServer") 
+AddEventHandler("cAnim:ValidServer", function(target, requestedemote)
+	TriggerClientEvent("cAnim:TaskAnimPlayer", source, requestedemote, true)
+	TriggerClientEvent("cAnim:TaskAnimPlayer", target, requestedemote, false)
+end)

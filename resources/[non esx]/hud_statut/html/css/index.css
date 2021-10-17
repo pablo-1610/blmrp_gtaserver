@@ -1,0 +1,73 @@
+* {
+
+    font-family       :       'Oswald', sans-serif;
+
+    font-size         :       1.1vh;
+
+    vertical-align  :       middle;
+
+}
+
+#StatusHud {
+
+    position     :       absolute;
+
+    bottom       :       0.5vh;
+
+    left         :       2vh;
+
+}
+
+.textpercent {
+
+    width            :       2vh;
+
+    float            :       right;
+
+    padding-left     :       0.5vh;
+
+    text-align       :       center;
+
+}
+
+body {
+
+    width     :       100%;
+
+    overflow  :       hidden;
+
+}
+
+#logo {
+
+    position    :       absolute;
+
+    opacity     :       1;
+
+    right       :       -19.0vh;
+
+    top         :       0.9vh;
+
+}
+
+.cmx-hud-box {
+
+    display                :        inline-block;
+
+    background-color       :       #ebb02f;
+
+    color                  :       white;
+
+    padding                :        2px 6px;
+
+    width                  :        fit-content;
+
+    text-align             :       center;
+
+    margin-top             :       0.2vh;
+
+    border-radius          :       0.4vh;
+
+    color                  :     white;
+
+}

@@ -1,0 +1,36 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>praca.ymap</Item>
+    <Item>distlodlights_medium019.ymap</Item>
+    <Item>distlodlights_medium022.ymap</Item>
+    <Item>distlodlights_small028.ymap</Item>
+    <Item>distlodlights_small030.ymap</Item>
+    <Item>distlodlights_small036.ymap</Item>
+    <Item>dt1_13_long_0.ymap</Item>
+    <Item>dt1_13_strm_0.ymap</Item>
+    <Item>dt1_rd1.ymap</Item>
+    <Item>dt1_rd1_critical_1.ymap</Item>
+    <Item>dt1_rd1_long_1.ymap</Item>
+    <Item>hei_dt1_13.ymap</Item>
+    <Item>hei_dt1_13_long_0.ymap</Item>
+    <Item>hei_dt1_13_strm_0.ymap</Item>
+    <Item>hei_dt1_occl_04.ymap</Item>
+    <Item>hei_dt1_rd1.ymap</Item>
+    <Item>hei_dt1_rd1_critical_1.ymap</Item>
+    <Item>hei_dt1_rd1_long_1.ymap</Item>
+    <Item>hei_dt1_rd1_strm_5.ymap</Item>
+    <Item>hei_dt1_rd1_strm_6.ymap</Item>
+    <Item>hei_hw1_blimp.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>parte_solida.ytyp</Item>
+    <Item>pontecar.ytyp</Item>
+    <Item>praca.ytyp</Item>
+  </YtypFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>
